@@ -1,0 +1,22 @@
+.logotype h5{
+    font-size:16px ;
+    }
+.logotype{
+font-size:11px ;
+}
+
+.nav-links a{
+   color: #009AD8 !important;
+}
+.header{
+    background-image: url("../img/routeegypt_com/banner.png");
+    background-position: center;
+    background-repeat: 100% 100%;
+    height: 50vh;
+}
+.bg-card{
+    color: #323544 !important;;
+}
+.bg-footer{
+    background-color: #262936;
+}
